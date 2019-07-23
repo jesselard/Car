@@ -1,3 +1,7 @@
+#Written by Jesse Lard
+
+#This program acts like a car. You can accelerate, brake, show the odometer and average speed. 
+
 class Car:
     def __init__(self):
         self.speed = 0
